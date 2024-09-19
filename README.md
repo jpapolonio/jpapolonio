@@ -1,4 +1,4 @@
-## Hi there, I am Joao Apolonio! 👋
+## Hi there, I am João Apolonio! 👋
 
 # I love Data Science and Machine Learning
 
