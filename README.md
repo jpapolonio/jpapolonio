@@ -1,8 +1,8 @@
 ## Hi there, I am Joao Apolonio! 👋
 # I love Data Science and Machine Learning
-- ⚡ Brief introduction: I am an undergraduate student in Statistics at USP, graduating in 2025. I have experience in Data Science and Artificial Intelligence Engineering applying technologies like Python, SQL, R and TensorFlow, and techniques like hypothesis testing, regression analysis, and Convolutional Neural Networks on Image Processing. My experience includes working with Uber's International Data Science Team and AI research at POLI-USP. I also studied Data Science and AI at the Technical University of Munich on a merit-based scholarship.
-- 🔭 I’m currently working in an International Data Science Team at Uber.
-- 🌱 I’m currently learning about Suvivorship data Analysis, for making the most out of limited data.
+⚡ Brief introduction: I am an undergraduate student in Statistics at USP, graduating in 2025. I have experience in Data Science and Artificial Intelligence Engineering applying technologies like Python, SQL, R and TensorFlow, and techniques like hypothesis testing, regression analysis, and Convolutional Neural Networks on Image Processing. My experience includes working with Uber's International Data Science Team and AI research at POLI-USP. I also studied Data Science and AI at the Technical University of Munich on a merit-based scholarship.
+🔭 I’m currently working in an International Data Science Team at Uber.
+🌱 I’m currently learning about Suvivorship data Analysis, for making the most out of limited data.
 
 ### Tools
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
